@@ -7,4 +7,4 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
-[link]()
+[link](https://github.com/NghiaITCL/TestMarkDown/blob/master/index.md)
